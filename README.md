@@ -1,13 +1,11 @@
-### Olá, eu sou a Bruna Oliviera!
-Estou estudando para me tornar desenvolvedora front-end
-<br><br>
-<b>Principais linguagens:</b>
-
-<div style="display: inline_block">
-  <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="logo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="logo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+### Olá, eu me chamo Bruna Oliviera.
+Atualmente estou estudando: HTML5, CSS3 e JavaScript.
+<br>
+Se tiver interesse, veja meu perfil no
+<div>
+  <a href="https://www.linkedin.com/in/oliveirabrunati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@oliveirabrunati" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+  <a href = "#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
 </div>
 
 ##
@@ -18,10 +16,3 @@ Estou estudando para me tornar desenvolvedora front-end
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirabrunati&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
-##
-  
-<div>
-  <a href="https://medium.com/@oliveirabrunati" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
-  <a href = "#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oliveirabrunati/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
