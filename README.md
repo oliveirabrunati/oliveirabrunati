@@ -1,5 +1,5 @@
-### Olá, eu me chamo Bruna Oliviera.
-Atualmente estou estudando: HTML5, CSS3 e JavaScript.
+### Olá, eu sou a Bruna Oliviera.
+Programo em: HTML5, CSS3 e JavaScript.
 <br>
 Se tiver interesse, veja meu perfil no
 <div>
